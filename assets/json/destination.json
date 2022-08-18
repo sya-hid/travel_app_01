@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Kuta Mandalika",
+        "image":"assets/beach/kuta-mandalika-beach.jpeg",
+        "location":"Lombok, Indonesia",
+        "description":"",
+        "rate":"4.4"
+    },
+    {
+        "name":"Nusa Penida",
+        "image":"assets/beach/nusa-penida-beach.jpg",
+        "location":"Bali, Indonesia",
+        "description":"Nusa Penida adalah sebuah pulau kecil yang berada sebelah tenggara pulau Bali, dan terpisah oleh selat Badung. Di dekat pulau ini, trdapat 2 pulau kecil lain, yaitu pulau Nusa Lembangan da pulau Nusa Ceningan",
+        "rate":"4.6"
+    },
+    {
+        "name":"Pink Beach",
+        "image":"assets/beach/pink-beach.jpg",
+        "location":"Labuan Bajo, Indonesia",
+        "description":"",
+        "rate":"4.5"
+    }
+]
