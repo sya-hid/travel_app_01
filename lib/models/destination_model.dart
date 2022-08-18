@@ -19,14 +19,6 @@ class Destination {
       this.facilities,
       this.rate,
       this.location});
-
-  factory Destination.fromJson(Map<String, dynamic> data) => Destination(
-      id: data['id'],
-      image: data['image'],
-      name: data['name'],
-      description: data['description'],
-      location: data['location'],
-      rate: data['rate']);
 }
 
 List<Destination> destinations = [
